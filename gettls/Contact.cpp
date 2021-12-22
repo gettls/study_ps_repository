@@ -32,7 +32,7 @@ void go(string param) {
 	for (int i = 4; i + param.size() <= str.size(); i++) {
 		for (int j = 0; j < p_1001[i].size(); j++) {
 			string nextParam = param + p_1001[i][j];
-			// nextParam 이 str 과 일치하고 있을 때만 재귀 수행
+			// nextParam 이 str과  일치하고 있을 때만 재귀 수행
 			if (str.substr(0, nextParam.size()) == nextParam) go(nextParam);
 		}
 	}
@@ -62,5 +62,26 @@ int main() {
 		go("");
 		if (flag) printf("YES\n");
 		else printf("NO\n");
+	}
+}
+
+// -----regex-----//
+
+#include <iostream>
+#include <regex>
+#include <cstring>
+using namespace std;
+int N;
+int main()
+{
+	cin >> N;
+	regex origin("((100+1+)|(01))+");
+	while (N--) {
+		string str;
+		cin >> str;
+		if (regex_match(str, origin))
+			cout << "YES\n";
+		else
+			cout << "NO\n";
 	}
 }
