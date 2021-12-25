@@ -14,3 +14,4 @@
 [Contact]:https://www.acmicpc.net/problem/1013
 [누울 자리를 찾아라]:https://www.acmicpc.net/problem/1652
 [패션왕 신해빈]:https://www.acmicpc.net/problem/9375
+[스택 수열]: https://www.acmicpc.net/problem/1874
