@@ -7,7 +7,7 @@
 ---------
 >|**날짜**|**공통 문제**|**분류**|**개별 문제**
 >|:----:|:-----:|:-----:|:-----:|
->||[짝지어 제거하기]<br>[H-Index]<br>[Contact]<br>[누울 자리를 찾아라]<br>[패션왕 신해빈]<br>[스택 수열]<br>|프로그래머스<br>프로그래머스<br>문자열<br>구현<br>수학<br>스택<br>|[그대, 그머가 되어] - |
+>||[짝지어 제거하기]<br>[H-Index]<br>[Contact]<br>[누울 자리를 찾아라]<br>[패션왕 신해빈]<br>[스택 수열]<br>|프로그래머스<br>프로그래머스<br>문자열<br>구현<br>수학<br>스택<br>|[그대, 그머가 되어]|
 ---------
 [짝지어 제거하기]:https://programmers.co.kr/learn/courses/30/lessons/12973
 [H-Index]:https://programmers.co.kr/learn/courses/30/lessons/42747
