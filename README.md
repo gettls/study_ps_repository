@@ -21,7 +21,9 @@
 ---------
 >|**날짜**|**공통 문제**|**분류**|**개별 문제**
 >|:----:|:-----:|:-----:|:-----:|
->|2주차</br>~22.01.07|[도로검문]<br>[파일합치기]<br>|그래프<br>|
+>|2주차</br>~22.01.07|[도로검문]<br>[파일합치기]<br>[공주님을 구해라!]<br>[로고]|그래프<br><br>그래프 탐색<br>그래프<br>|
 
 [도로검문]:https://www.acmicpc.net/problem/2307
 [파일합치기]:https://www.acmicpc.net/problem/13975
+[공주님을 구해라!]:https://www.acmicpc.net/problem/17836
+[로고]:https://www.acmicpc.net/problem/3108
