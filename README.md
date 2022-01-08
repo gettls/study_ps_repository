@@ -34,8 +34,10 @@
 ---------
 >|**날짜**|**공통 문제**|**분류**|**개별 문제**
 >|:----:|:-----:|:-----:|:-----:|
->|3주차</br>~22.01.14|[전깃줄]<br>[단어암기]|DP<br>비트마스킹||
+>|3주차</br>~22.01.14|[전깃줄]<br>[단어암기]<br>[두 개의 문]<br>[1학년]|DP<br>비트마스킹<br>비트마스킹<br>DP||
 
 [전깃줄]:https://www.acmicpc.net/problem/2565
 [단어암기]:https://www.acmicpc.net/problem/18119
+[두 개의 문]:https://www.acmicpc.net/problem/17453
+[1학년]:https://www.acmicpc.net/problem/5557
 
