@@ -30,3 +30,12 @@
 [강의실]:https://www.acmicpc.net/problem/1374
 [트리]:https://www.acmicpc.net/problem/1068
 [알약]:https://www.acmicpc.net/problem/4811
+
+---------
+>|**날짜**|**공통 문제**|**분류**|**개별 문제**
+>|:----:|:-----:|:-----:|:-----:|
+>|3주차</br>~22.01.14|[전깃줄]<br>[단어암기]|DP<br>비트마스킹||
+
+[전깃줄]:https://www.acmicpc.net/problem/2565
+[단어암기]:https://www.acmicpc.net/problem/18119
+
