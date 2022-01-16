@@ -42,14 +42,12 @@ int main() {
 	}
 
 	vector<vector<int>> check(2 * n + 1);
-	check[timeMachine(door) + n].push_back(-1); // 아무것도 안했을 경우
+	check[timeMachine(door) + n].push_back(-1);
 
 
-	// m 개 스위치의 조합
+	// m 개 스위치의 조합 -> list 
 	int set = (1 << m) - 1;
 	for (int subset = set; subset; subset = (subset - 1) & set) {
-
-		// 스위치 index 배열 
 		vector<int> l;
 		for (int i = 0; i < m; i++) {
 			if (subset & (1 << i)) l.push_back(i);
@@ -60,14 +58,14 @@ int main() {
 			tmp = btnClick(tmp, num);
 		}
 		// Click 결과 확인
-		// 문을 지났을 때 나올 수 있는 시간에 해당하는 
-		// 스위치 index 배열을 집어넣음
 		int time = timeMachine(tmp);
+
 		if (check[time + n].size() != 0) continue;
 		for (int i = 0; i < l.size(); i++) {
 			check[time + n].push_back(l[i]);
 		}
 	}
+
 
 	for (int time = -n; time <= n; time++) {
 		int t = time + n;

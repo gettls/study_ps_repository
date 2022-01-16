@@ -43,3 +43,10 @@
 [시간표짜기]:https://www.acmicpc.net/problem/14569
 [상자넣기]:https://www.acmicpc.net/problem/1965
 
+---------
+>|**날짜**|**공통 문제**|**분류**|**개별 문제**
+>|:----:|:-----:|:-----:|:-----:|
+>|4주차</br>~22.01.21|[진우의 민트초코우유]<br>[택배]<br>|<br>||
+
+[진우의 민트초코우유]:https://www.acmicpc.net/problem/20208
+[택배]:https://www.acmicpc.net/problem/8980
