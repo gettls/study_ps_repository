@@ -52,3 +52,11 @@
 [택배]:https://www.acmicpc.net/problem/8980
 [차이를 최대로]:https://www.acmicpc.net/problem/10819
 [펠린드롬 공장]:https://www.acmicpc.net/problem/1053
+
+---------
+>|**날짜**|**공통 문제**|**분류**|**개별 문제**
+>|:----:|:-----:|:-----:|:-----:|
+>|5주차</br>~22.01.28|[합이 0]<br>[월드컵]|<br>||
+
+[합이 0]:https://www.acmicpc.net/problem/3151
+[월드컵]:https://www.acmicpc.net/problem/6987
