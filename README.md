@@ -56,7 +56,9 @@
 ---------
 >|**날짜**|**공통 문제**|**분류**|**개별 문제**
 >|:----:|:-----:|:-----:|:-----:|
->|5주차</br>~22.01.28|[합이 0]<br>[월드컵]|<br>||
+>|5주차</br>~22.01.28|[합이 0]<br>[월드컵]|<br>[불]<br>[함께 블록 쌓기]<br>||
 
 [합이 0]:https://www.acmicpc.net/problem/3151
 [월드컵]:https://www.acmicpc.net/problem/6987
+[불]:https://www.acmicpc.net/problem/5427
+[함께 불록 쌓기]:https://www.acmicpc.net/problem/18427
