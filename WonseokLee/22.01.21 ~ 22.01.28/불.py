@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from collections import deque
 
 dx = [-1, 1, 0, 0]
@@ -73,14 +72,4 @@ for _ in range(T):
         print(1)
     else:
         print(bfs(x, y))
-
-# for t in tower:
-#     for x in t:
-#         print(x)
-
-
-=======
-T =
-
-##
->>>>>>> origin/main
+\
