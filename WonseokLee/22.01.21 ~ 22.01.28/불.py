@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from collections import deque
 
 dx = [-1, 1, 0, 0]
@@ -78,3 +79,8 @@ for _ in range(T):
 #         print(x)
 
 
+=======
+T =
+
+##
+>>>>>>> origin/main
